@@ -1,0 +1,40 @@
+.mainbg {
+	background-color: #141414;
+}
+
+.nav-link {
+	color: #bfbfbf;
+	text-decoration: none !important;
+}
+
+.nav-link:hover {
+	color: white;
+}
+
+/*Active navbar link*/
+.active {
+	color: white;
+	border-top: 2px solid white !important;
+	font-size: 14pt;
+}
+
+#mainbody {
+	/*background-color: white !important;*/
+}
+
+label {
+	color: white;
+}
+
+body {
+	font-family: 'Quicksand', sans-serif !important;
+}
+
+#background-controller {
+	overflow: hidden !important;
+}
+
+.thankYou {
+	padding-top: 15vw;
+	color: white;
+}

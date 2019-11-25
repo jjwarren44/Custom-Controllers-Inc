@@ -1,0 +1,71 @@
+.mainbg {
+	background-color: #141414;
+}
+
+.nav-link {
+	color: #bfbfbf;
+	text-decoration: none !important;
+}
+
+.nav-link:hover {
+	color: white;
+}
+
+/*Active navbar link*/
+.active {
+	color: white;
+	border-top: 2px solid white !important;
+	font-size: 14pt;
+}
+
+#mainbody {
+	/*background-color: white !important;*/
+}
+
+label {
+	color: white;
+}
+
+body {
+	font-family: 'Quicksand', sans-serif !important;
+}
+
+#firsttext {
+	background-image: url("images/textbg1.jpg") !important;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	color: white !important;
+	padding: 5vw !important;	
+}
+
+#secondtext {
+	background-image: url("images/textbg3.jpeg") !important;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	color: white !important;
+	padding: 5vw !important;	
+}
+
+#thirdtext {
+	background-image: url("images/textbg2.jpeg") !important;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	color: white !important;
+	padding: 5vw !important;	
+}
+
+#background-controller {
+	overflow: hidden !important;
+}
+
+#signup {
+	padding-left: 3vw;
+	padding-right: 3vw;
+}
+
